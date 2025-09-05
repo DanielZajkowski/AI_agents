@@ -1,0 +1,3 @@
+- The best company for investment is [Company Name], which excels in [specific metric or factor].
+- Push Notification: Decisions and rationale sent to the user.
+- Detailed Report: [Report structure] with key metrics, analysis, and comparison table.
